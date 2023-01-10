@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "72qmIf3Xi5jieNoWiSp4ACs5goM2fdgTOeNLT5W6JmVWdTiK+mJJiILqnEBjlOhNT3A3VWiciLi7vFp9ySix5g==",
+  "success": true,
+  "projectFilePath": "E:\\Misa\\HCSN\\Backend\\MISA.Web12.NVDQuang.QLTS\\MISA.Web12.NVDQuang.QLTS.DL\\MISA.Web12.NVDQuang.QLTS.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
